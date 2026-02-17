@@ -1,2 +1,2 @@
-# Sunil-Data-Analytics-Projects
-This repository contains hands-on projects built using Excel, SQL, Power BI, and Tableau. It includes data exploration, advanced queries, interactive dashboards, and visualization solutions that demonstrate problem-solving and analytical capabilities for business decision-making.
+# Power BI Sales Performance Analysis Dashboard
+This repository contains a Sales Data Analysis project built using Power BI. It includes data cleaning, data modeling, DAX calculations, and the creation of interactive dashboards. The project demonstrates sales performance analysis, revenue insights, return analysis, and KPI tracking to support data-driven business decision-making.
