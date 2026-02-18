@@ -1,4 +1,4 @@
-### Power BI STAR Schema Data Model
+# Power BI STAR Schema Data Model
 
 - Designed and implemented a **STAR Schema**-based data model in Power BI for Sales & Returns analysis.  
 - Established optimized one-to-many (1:*) relationships between fact and dimension tables to ensure accurate aggregation and filtering.  
@@ -8,7 +8,7 @@
 <img width="1168" height="425" alt="image" src="https://github.com/user-attachments/assets/51d992e7-4344-4564-ace0-cbe0e9d72a6b" />
 
 ---
-### Target vs Actual Analysis
+# Target vs Actual Analysis
 
 - This Power BI dashboard represents a **Sales & Product Performance Analysis**.  
 - It tracks key KPIs such as **Orders, Revenue, and Profit** against targets, along with **Profit and Return trends** to evaluate overall business performance.
