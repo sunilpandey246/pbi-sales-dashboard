@@ -27,6 +27,13 @@ Enables quick regional filtering and easy performance comparison across continen
 <img width="874" height="404" alt="image" src="https://github.com/user-attachments/assets/61318604-394d-4ca4-ae28-17129a0667f3" />
 
 ---
+# 📊 Customer & Revenue Analytics Dashboard – Power BI
+
+## 📌 Overview
+This Power BI dashboard provides insights into customer performance and revenue trends. It displays key KPIs such as Unique Customers, Revenue per Customer, Revenue Trend over time, Top 100 Customers, and category-wise order distribution.
+
+## 🎯 Purpose
+Helps analyze customer behavior, track revenue growth, identify top-performing customers, and support data-driven business decisions.
 
 <img width="823" height="382" alt="image" src="https://github.com/user-attachments/assets/a5750edd-1594-49be-b5e8-bc69eca61c66" />
 
