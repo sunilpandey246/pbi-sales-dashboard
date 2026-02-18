@@ -5,7 +5,6 @@
 - Structured fact and lookup tables to improve report performance and scalability.  
 - Demonstrated strong expertise in data modeling, schema design, and business intelligence reporting.
 
-
 ---
 
 <img width="1168" height="425" alt="image" src="https://github.com/user-attachments/assets/51d992e7-4344-4564-ace0-cbe0e9d72a6b" />
