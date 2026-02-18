@@ -51,7 +51,16 @@ To monitor overall business performance, track sales and profit growth, analyze 
 <img width="878" height="409" alt="image" src="https://github.com/user-attachments/assets/5272e46b-da7d-49fe-bce7-778f198c776a" />
 
 ---
+# 📦 Product Performance & Target Analysis Dashboard – Power BI
+
+## 📌 Overview
+This Power BI dashboard analyzes product-level performance with a focus on target comparison. It displays Monthly Orders, Revenue, and Profit vs. Target using gauge visuals, along with profit trends and return trends. Interactive controls such as product selection, price adjustment (%), and metric selection enhance dynamic analysis.
+
+## 🎯 Purpose
+To evaluate product performance against targets, monitor profit impact with price adjustments, track return patterns, and support data-driven pricing and sales decisions.
+
 <img width="895" height="402" alt="image" src="https://github.com/user-attachments/assets/0967645c-ba56-438c-a05e-1d84f36d3d6a" />
+
 ---
 
 
